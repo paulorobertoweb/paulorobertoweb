@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Sou um Programador Full Stack, atualmente estou aprofundando meus conhecimentos com integrações com a IA.
+Sou desenvolvedor full stack, trabalho com as principais linguagens de programação e estou sempre em busca de novos conhecimentos.
 
 Connect with me:<br>
 <a href="https://www.linkedin.com/in/paulorobertoweb"><img src="https://github.com/user-attachments/assets/709e02d6-1005-4f37-aef8-88302491bea4" width="30px" alt="imagem-linkedin">
